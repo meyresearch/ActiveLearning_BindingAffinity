@@ -1,4 +1,4 @@
-# Benchmarking active learning protocols for ligand binding affinity prediction
+# Benchmarking Active Learning Protocols for Ligand Binding Affinity Prediction
 
 This repository contains datasets used in our study.
 
